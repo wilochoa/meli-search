@@ -1,0 +1,93 @@
+{"parentSites":[
+  {
+    "id": "MLU",
+    "name": "Uruguay",
+    "image": "https://www.countryflags.io/uy/flat/64.png"
+  },
+  {
+    "id": "MCO",
+    "name": "Colombia",
+    "image": "https://www.countryflags.io/co/flat/64.png"
+  },
+  {
+    "id": "MLB",
+    "name": "Brasil",
+    "image": "https://www.countryflags.io/br/flat/64.png"
+  },
+  {
+    "id": "MLV",
+    "name": "Venezuela",
+    "image": "https://www.countryflags.io/ve/flat/64.png"
+  },
+  {
+    "id": "MLM",
+    "name": "Mexico",
+    "image": "https://www.countryflags.io/mx/flat/64.png"
+  },
+  {
+    "id": "MCR",
+    "name": "Costa Rica",
+    "image": "https://www.countryflags.io/cr/flat/64.png"
+  },
+  {
+    "id": "MSV",
+    "name": "El Salvador",
+    "image": "https://www.countryflags.io/sv/flat/64.png"
+  },
+  {
+    "id": "MNI",
+    "name": "Nicaragua",
+    "image": "https://www.countryflags.io/ni/flat/64.png"
+  },
+  {
+    "id": "MLA",
+    "name": "Argentina",
+    "image": "https://www.countryflags.io/ar/flat/64.png"
+  },
+  {
+    "id": "MRD",
+    "name": "Dominicana",
+    "image": "https://www.countryflags.io/do/flat/64.png"
+  },
+  {
+    "id": "MHN",
+    "name": "Honduras",
+    "image": "https://www.countryflags.io/hn/flat/64.png"
+  },
+  {
+    "id": "MEC",
+    "name": "Ecuador",
+    "image": "https://www.countryflags.io/ec/flat/64.png"
+  },
+  {
+    "id": "MPE",
+    "name": "Perú",
+    "image": "https://www.countryflags.io/pe/flat/64.png"
+  },
+  {
+    "id": "MPY",
+    "name": "Paraguay",
+    "image": "https://www.countryflags.io/py/flat/64.png"
+  },
+  {
+    "id": "MGT",
+    "name": "Guatemala",
+    "image": "https://www.countryflags.io/gt/flat/64.png"
+  },
+  {
+    "id": "MBO",
+    "name": "Bolivia",
+    "image": "https://www.countryflags.io/bo/flat/64.png"
+  },
+  {
+    "id": "MPA",
+    "name": "Panamá",
+    "image": "https://www.countryflags.io/pa/flat/64.png"
+  },
+  {
+    "id": "MLC",
+    "name": "Chile",
+    "image": "https://www.countryflags.io/cl/flat/64.png"
+  }
+]
+}
